@@ -1,4 +1,8 @@
-# practice
+# Macquarie Institute Website Redesign in Vue
+```
+A redesign of the website I did for Macquarie Institute this time using and utilizing Vue JS for the project.
+
+```
 
 ## Project setup
 ```
